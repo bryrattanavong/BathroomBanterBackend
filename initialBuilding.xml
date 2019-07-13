@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building_xml>
+	<building>
+		<name>
+			Herzberg Laboratories
+		</name>
+		<num_floors>
+			5
+		</num_floors>
+		<lat>
+			45.3820792
+		</lat>
+		<long>
+			-75.6994726
+		</long>
+		<average_rating>
+			2.5
+		</average_rating>
+	</building>
+	<building>
+		<name>
+			Richcraft Hall
+		</name>
+		<num_floors>
+			5
+		</num_floors>
+		<lat>
+			45.3823628
+		</lat>
+		<long>
+			-75.6984518
+		</long>
+		<average_rating>
+			4.5
+		</average_rating>
+	</building>
+	<building>
+		<name>
+			University Center
+		</name>
+		<num_floors>
+			5
+		</num_floors>
+		<lat>
+			45.3833808
+		</lat>
+		<long>
+			-75.6983951
+		</long>
+		<average_rating>
+			1.5
+		</average_rating>
+	</building>
+	<building>
+		<name>
+			Canal Building
+		</name>
+		<num_floors>
+			5
+		</num_floors>
+		<lat>
+			45.3829749
+		</lat>
+		<long>
+			-75.6989289
+		</long>
+		<average_rating>
+			1.5
+		</average_rating>
+	</building>
+</building_xml>

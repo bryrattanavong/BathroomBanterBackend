@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<washroom_xml>
+  <!-- Organize by buildings and then floor (1 -> MAX) -->
+
+  <!-- START OF HERZBERG (HP) -->
+  <washroom>
+    <!-- room_num is the room number of the washroom. ex: 4125. NEVER CHANGES -->
+    <room_num>
+      4125
+    </room_num>
+    <!-- boolean value for male. 1 = true 0 = false. NEVER CHANGES -->
+    <male>
+      1
+    </male>
+    <!-- boolean value for female. 1 = true 0 = false. NEVER CHANGES -->
+    <female>
+      0
+    </female>
+    <!-- boolean value for wheelchair accessibility. 1 = true 0 = false NEVER CHANGES -->
+    <wheelchair>
+      0
+    </wheelchair>
+    <!-- average rating for the washroom. calculated by the average of the other scores. ranges from 0 - 5 -->
+    <average_rating>
+      1
+    </average_rating>
+    <!-- cleanliness rating for the washroom. ranges from 0 - 5 -->
+    <cleanliness>
+      1
+    </cleanliness>
+    <!-- size rating for the washroom. ranges from 0 - 5 -->
+    <size>
+      1
+    </size>
+    <!-- toilet paper rating for the washroom. ranges from 0 - 5 -->
+    <toilet_paper>
+      1
+    </toilet_paper>
+    <!-- traffic rating for the washroom. ranges from 0 - 5 -->
+    <traffic>
+      1
+    </traffic>
+    <!-- floor where the washroom is located. NEVER CHANGES -->
+    <floor>
+      4
+    </floor>
+    <!-- building where the washroom is located. NEVER CHANGES -->
+    <building>
+    Herzberg Laboratories
+    </building>
+    <num_votes>
+    1
+    </num_votes>
+    <!-- unique identifier for the washroom. combination of building symbol and room number. ex: HP4125. (used to retrieve comments) NEVER CHANGES -->
+    <id>
+    HP4125
+    </id>
+    <!-- latitude coord of the building >
+  </washroom>
+  <!-- END OF HERZBERG -->
+
+  <!-- START OF RICHCRAFT (RB) -->
+  <washroom>
+    <room_num>
+      2913
+    </room_num>
+    <male>
+      1
+    </male>
+    <female>
+      0
+    </female>
+    <wheelchair>
+      0
+    </wheelchair>
+    <average_rating>
+      3.75
+    </average_rating>
+    <cleanliness>
+      4
+    </cleanliness>
+    <size>
+      5
+    </size>
+    <toilet_paper>
+      3
+    </toilet_paper>
+    <traffic>
+      3
+    </traffic>
+    <floor>
+      2
+    </floor>
+    <building>
+    Richcraft Hall
+    </building>
+    <id>
+    RB2913
+    </id>
+    <num_votes>
+    1
+    </num_votes>
+  </washroom>
+
+  <washroom>
+    <room_num>
+      2914
+    </room_num>
+    <male>
+      0
+    </male>
+    <female>
+      1
+    </female>
+    <wheelchair>
+      0
+    </wheelchair>
+    <average_rating>
+      3.75
+    </average_rating>
+    <cleanliness>
+      4
+    </cleanliness>
+    <size>
+      5
+    </size>
+    <toilet_paper>
+      3
+    </toilet_paper>
+    <traffic>
+      3
+    </traffic>
+    <floor>
+      2
+    </floor>
+    <building>
+    Richcraft Hall
+    </building>
+    <id>
+    RB2914
+    </id>
+    <num_votes>
+    1
+    </num_votes>
+  </washroom>
+  <!-- END OF RICHCRAFT -->
+
+</washroom_xml>
